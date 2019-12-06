@@ -105,6 +105,7 @@ venv.bak/
 
 # Project stuff
 .idea/
+examples/
 
 # Misc
 .DS_Store
